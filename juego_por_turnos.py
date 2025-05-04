@@ -1,5 +1,7 @@
 import random
 
+print("hola profe")
+
 print("""
 ╔══════════════════════════╗
 ║   T U R N   M A G I T    ║
